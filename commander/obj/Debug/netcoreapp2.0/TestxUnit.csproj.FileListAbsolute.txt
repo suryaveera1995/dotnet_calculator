@@ -1,0 +1,17 @@
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestLogger.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.Extension.Xunit.Xml.TestAdapter.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/TestxUnit.deps.json
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/TestxUnit.runtimeconfig.json
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/TestxUnit.runtimeconfig.dev.json
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/TestxUnit.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/TestxUnit.pdb
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/ConsoleApp.dll
+/home/veera/workspace/dummy/xUnitSample/commander/bin/Debug/netcoreapp2.0/ConsoleApp.pdb
+/home/veera/workspace/dummy/xUnitSample/commander/obj/Debug/netcoreapp2.0/TestxUnit.csproj.CoreCompileInputs.cache
+/home/veera/workspace/dummy/xUnitSample/commander/obj/Debug/netcoreapp2.0/TestxUnit.AssemblyInfoInputs.cache
+/home/veera/workspace/dummy/xUnitSample/commander/obj/Debug/netcoreapp2.0/TestxUnit.AssemblyInfo.cs
+/home/veera/workspace/dummy/xUnitSample/commander/obj/Debug/netcoreapp2.0/TestxUnit.dll
+/home/veera/workspace/dummy/xUnitSample/commander/obj/Debug/netcoreapp2.0/TestxUnit.pdb

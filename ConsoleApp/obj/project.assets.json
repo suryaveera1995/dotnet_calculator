@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/veera/workspace/dummy/xUnitSample/ConsoleApp/ConsoleApp.csproj",
+      "projectUniqueName": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "/home/veera/workspace/dummy/xUnitSample/ConsoleApp/ConsoleApp.csproj",
+      "projectPath": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/ConsoleApp.csproj",
       "packagesPath": "/home/veera/.nuget/packages/",
-      "outputPath": "/home/veera/workspace/dummy/xUnitSample/ConsoleApp/obj/",
+      "outputPath": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

@@ -18,3 +18,13 @@ d:/consolexunit/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.pdb
 /home/veera/workspace/dummy/xUnitSample/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfo.cs
 /home/veera/workspace/dummy/xUnitSample/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.dll
 /home/veera/workspace/dummy/xUnitSample/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.pdb
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.deps.json
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.json
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.runtimeconfig.dev.json
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.dll
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/bin/Debug/netcoreapp2.0/ConsoleApp.pdb
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.AssemblyInfo.cs
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.dll
+/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/obj/Debug/netcoreapp2.0/ConsoleApp.pdb

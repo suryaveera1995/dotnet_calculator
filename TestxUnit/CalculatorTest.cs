@@ -46,7 +46,7 @@ namespace unitTest
             Calculator cal = new Calculator();
             var myDivi=cal.Divi(15,5);
             Assert.IsType<int>(myDivi);
-            Assert.Equal(5,myDivi);
+            Assert.Equal(3,myDivi);
             Assert.NotEqual(10,myDivi);
         }
     }

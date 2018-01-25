@@ -5660,11 +5660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/veera/workspace/dummy/xUnitSample/TestxUnit/TestxUnit.csproj",
+      "projectUniqueName": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/TestxUnit/TestxUnit.csproj",
       "projectName": "TestxUnit",
-      "projectPath": "/home/veera/workspace/dummy/xUnitSample/TestxUnit/TestxUnit.csproj",
+      "projectPath": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/TestxUnit/TestxUnit.csproj",
       "packagesPath": "/home/veera/.nuget/packages/",
-      "outputPath": "/home/veera/workspace/dummy/xUnitSample/TestxUnit/obj/",
+      "outputPath": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/TestxUnit/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5681,8 +5681,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/veera/workspace/dummy/xUnitSample/ConsoleApp/ConsoleApp.csproj": {
-              "projectPath": "/home/veera/workspace/dummy/xUnitSample/ConsoleApp/ConsoleApp.csproj"
+            "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/ConsoleApp.csproj": {
+              "projectPath": "/home/veera/workspace/Hobbes/backups/DotNet/dotnet_calculator/ConsoleApp/ConsoleApp.csproj"
             }
           }
         }
